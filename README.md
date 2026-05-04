@@ -4,14 +4,14 @@ Step-by-step guide to run Quip Network node on VPS (CPU mode)
 
 📌 Requirements
 
-VPS (Ubuntu 22/24)
+    VPS (Ubuntu 22/24)
 
 
-Docker installed
+    Docker installed
 
 
-Open ports:
+    Open ports:
 
-20049 (TCP + UDP)
+    20049 (TCP + UDP)
 
-20080 (Dashboard)
+    20080 (Dashboard)
