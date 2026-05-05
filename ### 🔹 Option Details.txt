@@ -1,0 +1,18 @@
+### 🔹 Option Details
+```bash
+| Option | Function |
+|--------|----------|
+| **1. Full Install** | Complete installation with snapshot download |
+| **2. View Logs** | View real-time node logs in terminal |
+| **3. View & Reconfigure .env** | Edit configuration file safely |
+| **4. Check RPC Health** | Test RPC endpoint health |
+| **5. Delete Node** | Remove node with confirmation |
+| **6. Check Ports & Peer ID** | Verify ports & get Peer ID with explorer link |
+| **7. Update Node** | Pull latest Aztec version |
+| **8. Check Node Version** | Display current node version |
+| **9. Check Node Performance** | Full system diagnostics & health check |
+| **10. Show Docker Containers** | List all running containers |
+| **11. Launch Dozzle** | Web-based log viewer (access at port 9999) |
+| **12. Exit** | Close the menu |
+```
+---
